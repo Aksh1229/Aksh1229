@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aksh Chauhan</h1>
 <h3 align="center">💻 Data Enthusiast | Aspiring Data Analyst </h3> 
 
-<h2 align="center"> AI Explorer Currently diving deep into an AI-focused project to sharpen my skills in artificial intelligence and data-driven solutions. Passionate about uncovering insights through data, building machine learning models, and automating processes. Constantly exploring emerging technologies and experimenting with AI innovations to solve real-world challenges.</h2>
+<h5 align="center"> AI Explorer Currently diving deep into an AI-focused project to sharpen my skills in artificial intelligence and data-driven solutions. Passionate about uncovering insights through data, building machine learning models, and automating processes. Constantly exploring emerging technologies and experimenting with AI innovations to solve real-world challenges. </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh1229&label=Profile%20views&color=0e75b6&style=flat" alt="aksh1229" /> </p>
 
-- 🌱 I’m currently learning **BCG Data Science course**
+- 🌱 I’m currently learning - **BCG Data Science course**
 
-- 💬 Ask me about **collaboration in any kind of data driven project even AI too.**
+- 💬 Ask me about - **collaboration in any kind of data driven project even AI based too.**
 
-- 📫 How to reach me **akshchauhan1214@gmail.com**
+- 📫 How to reach me  - **akshchauhan1214@gmail.com**
 
-- ⚡ Fun fact **I am fast-learner and adaptive to new technologies, i also have experience in UI-UX designing.**
+- ⚡ Fun fact - **I am fast-learner and adaptive to new technologies & i am fond of UI-UX designing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
