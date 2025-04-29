@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aksh Chauhan</h1>
 <h3 align="center">💻 Data Enthusiast | Aspiring Data Analyst </h3> 
 
-<h5 align="center"> AI Explorer Currently diving deep into an AI-focused project to sharpen my skills in artificial intelligence and data-driven solutions. Passionate about uncovering insights through data, building machine learning models, and automating processes. Constantly exploring emerging technologies and experimenting with AI innovations to solve real-world challenges. </h5>
+<h4 align="center"> AI Explorer Currently diving deep into an AI-focused project to sharpen my skills in artificial intelligence and data-driven solutions. Passionate about uncovering insights through data, building machine learning models, and automating processes. Constantly exploring emerging technologies and experimenting with AI innovations to solve real-world challenges. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh1229&label=Profile%20views&color=0e75b6&style=flat" alt="aksh1229" /> </p>
 
